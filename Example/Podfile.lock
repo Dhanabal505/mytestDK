@@ -1,0 +1,16 @@
+PODS:
+  - mytestdk (0.1.0)
+
+DEPENDENCIES:
+  - mytestdk (from `../`)
+
+EXTERNAL SOURCES:
+  mytestdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mytestdk: c0e38e9a708cdfaa2c0ba0464fa9456ed9929f2f
+
+PODFILE CHECKSUM: 8fd655bbe3435f902fe0b32ad234860eb0af705d
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module mytestdk {
+  umbrella header "mytestdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
